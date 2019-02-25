@@ -1,0 +1,57 @@
+.page{
+    width:80%;
+    margin: 0 auto;
+    padding: 16px 0;
+}
+.header{
+    width:100%;
+    font-size:30px;
+    color:#000;
+    background-color:#fc721e;
+    padding:10px 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.form {
+    text-align: left;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    border:3px solid #fc721e;
+    padding:10px 20px 10px 20px;
+}
+input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 7px 5px;
+    margin: ;
+}
+button {
+    background: skyblue;
+    padding: 12px 19px;
+    margin: 14px 12px;
+    border:1px solid #fc721e;
+    width:10%;
+}
+a.bt2 {
+    background: skyblue;
+    padding: 12px 19px;
+    margin: 14px 12px;
+    border:1px solid #fc721e;
+    width:10%;
+}
+
+.bt1:hover {
+    opacity: 0.7;
+    color: blue;
+    background: white;
+}
+.bt1 {
+    margin-left: 363px;
+    border-radius: 15px;
+}
+.bt2 {
+    opacity: .8;
+    color: #fc721e;
+    border-radius: 12px;
+}
